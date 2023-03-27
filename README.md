@@ -1,4 +1,4 @@
 - npm install
-- npm satrt
-- on postman run the create endpoint 
-- after that run merge-v2 endpoint
+- npm start OR npm start --watch (Like nodemon start)
+- On (Ex: postman) run the create endpoint on (http://localhost:3000/create)
+- Right after the create endpoint passes successfully run merge endpoint on (http://localhost:3000/merge)
