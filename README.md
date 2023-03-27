@@ -1,0 +1,4 @@
+- npm install
+- npm satrt
+- on postman run the create endpoint 
+- after that run merge-v2 endpoint

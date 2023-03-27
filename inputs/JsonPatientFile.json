@@ -1,0 +1,11 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "male",
+    "birthDate": "1980-01-01",
+    "address": "123 Main St",
+    "city": "Anytown",
+    "postalCode": "12345",
+    "phoneNumber": "555-1234"
+}
+  
